@@ -1,0 +1,32 @@
+,VLOOKUP: Covid19,,,,,,,,
+,,,,,,,,,
+Age ,Time spent on Online Class,Rating of Online Class experience,Device used for online class,,,,,,
+7,2,Good,Smartphone,,,Age ,Time spent on Online Class,Rating of Online Class experience,Device used for online class
+12,1,Excellent,Smartphone,,,7,2,Good,Tablet
+12,4,Excellent,Smartphone,,,12,5,Average,Smartphone
+9,1,Average,Laptop  Desktop,,,12,5,Excellent,Laptop  Desktop
+12,5,Excellent,Laptop  Desktop,,,9,1,Good,Laptop  Desktop
+10,3,Good,Tablet,,,12,5,Excellent,Laptop  Desktop
+10,4,Good,Smartphone,,,10,5,Excellent,Laptop  Desktop
+10,4,Average,Smartphone,,,10,5,Excellent,Laptop  Desktop
+10,5,Average,Laptop  Desktop,,,10,5,Good,Smartphone
+11,1,Good,Laptop  Desktop,,,10,5,Average,Smartphone
+12,5,Excellent,Smartphone,,,11,1,Excellent,Laptop  Desktop
+13,1,Excellent,Smartphone,,,12,4,Good,Smartphone
+11,4,Average,No Equipment,,,13,4,Good,Tablet
+11,4,Good,Smartphone,,,11,5,Good,Tablet
+11,5,Average,Smartphone,,,11,5,Excellent,Laptop  Desktop
+13,4,Excellent,Laptop  Desktop,,,11,5,Good,Smartphone
+12,1,Good,Laptop  Desktop,,,,,,
+13,5,Excellent,Tablet,,,,,,
+13,5,Excellent,Laptop  Desktop,,,,,,
+12,1,Good,Smartphone,,,,,,
+12,1,Average,No Equipment,,,,,,
+13,6,Excellent,Smartphone,,,,,,
+15,5,Excellent,Laptop  Desktop,,,,,,
+12,2,Average,Laptop  Desktop,,,,,,
+12,3,Good,Smartphone,,,,,,
+12,4,Good,Tablet,,,,,,
+15,9,Excellent,Laptop  Desktop,,,,,,
+12,4,Average,Smartphone,,,,,,
+12,4,Good,Smartphone,,,,,,
